@@ -1,6 +1,5 @@
 # nasa-API
 
-Your API key for holczerzs@gmail.com is:
 
 https://api.nasa.gov/planetary/apod?
 
